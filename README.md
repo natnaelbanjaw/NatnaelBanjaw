@@ -40,7 +40,7 @@ Java • Python • C++
 
 ## 📫 Connect With Me
 - **Email:** natnaelb382@gmail.com
-- Telegram: t.me//natnaellb 
+- Telegram: https://t.me/NatnaellB
 - **GitHub:** [github.com/NatnaelBanjaw](https://github.com/NatnaelBanjaw)  
 
 ---
