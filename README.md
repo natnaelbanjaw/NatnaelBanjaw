@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Natnael Banjaw
+# 👋 Hi there, I am Natnael Banjaw
 
 I am a passionate **Full-Stack Developer** and **Backend Engineer** with a background in **Computer Science**.  
 I specialize in building clean, scalable, and high-performing web applications using modern technologies on both the **frontend** and **backend**.
