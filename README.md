@@ -39,8 +39,8 @@ Java • Python • C++
 ---
 
 ## 📫 Connect With Me
-- **Email:** natnaelb382@gmail.com  
-- **Telegram: t.me//natnaellb 
+- **Email:** natnaelb382@gmail.com
+- Telegram: t.me//natnaellb 
 - **GitHub:** [github.com/NatnaelBanjaw](https://github.com/NatnaelBanjaw)  
 
 ---
