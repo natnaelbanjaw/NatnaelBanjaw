@@ -6,8 +6,8 @@ I specialize in building clean, scalable, and high-performing web applications u
 ---
 
 ## 🚀 About Me
-- 💻 Skilled in **React**, **Next.js**, **NestJS**, **Express.js**, **Node.js**, and **TypeScript**  
-- 🧠 Strong foundation in **Java**, **Python**, and **C++**  
+- 💻 Skilled in **HTML**, **CSS**, **React**, **Next.js**, **NestJS**, **Express.js**, **Node.js**, and **TypeScript**  
+- 🧠 Strong foundation in **JavaScript**, **Java**, **Python**, and **C++**  
 - 🗄️ Experienced with **PostgreSQL**, **MongoDB**, and REST API design  
 - ⚙️ Focused on writing maintainable, secure, and efficient code  
 - 🌍 Open to freelance and remote opportunities  
