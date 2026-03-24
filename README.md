@@ -108,15 +108,6 @@ I am a computer science student and **Software Developer** specialized in **Back
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Portfolio Website** | Interactive portfolio with particle animations and smooth scrolling | Next.js 16, React 19, TypeScript, Framer Motion | [Live](https://natnaelbanjaw.vercel.app) \| [Repo](https://github.com/natnaelbanjaw/portfolio) |
-| *More coming soon* | *Exciting projects in development* | *Stay tuned* | *-* |
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to:
