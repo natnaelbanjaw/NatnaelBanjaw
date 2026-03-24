@@ -92,8 +92,6 @@ I am a computer science student and **Software Developer** specialized in **Back
 ### Frontend & Mobile
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
-  <br/>
-  <i>React Native for cross-platform mobile apps</i>
 </p>
 
 ### Databases
