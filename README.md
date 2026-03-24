@@ -1,22 +1,20 @@
 # Hi there, I'm Natnael Banjaw! 👋
 ### Software Developer | Backend Engineer | Fullstack Developer | App Developer
 
+I am a computer science student and **Software Developer** specialized in **Backend**, **Fullstack**, and **Mobile App Development**. I create scalable systems and beautiful apps that solve real-world problems.
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+robust+backend+systems;Crafting+fullstack+applications;Developing+cross-platform+apps;Turning+ideas+into+reality+with+code)](https://git.io/typing-svg)
 
 ### Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://natnaelbanjaw.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natnaelb382@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natnaelbanjaw)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natnaelbanjaw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-banjaw-53459231a)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natnaellb)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natnaelbanjaw)
 
 ---
-
-## About Me
-
-I am a versatile **Software Developer** specialized in **Backend**, **Fullstack**, and **Mobile App Development**. I create scalable systems and beautiful apps that solve real-world problems.
-# Hi, I'm Natnael Banjaw 👋
 
 ### GitHub Stats
 
